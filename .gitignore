@@ -1,0 +1,46 @@
+# Java build files
+*.class
+*.jar
+*.war
+*.ear
+
+# Gradle
+.gradle/
+build/
+out/
+classes/
+
+# IDEs
+# IntelliJ
+.idea/
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# VSCode
+.vscode/
+
+# MCreator specific
+run/
+logs/
+workspace/backups/
+workspace/.cache/
+workspace/tmp/
+workspace/elements/.cache/
+workspace/elements/.gradle/
+
+# OS garbage
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+*.swp
+
+# MCreator export cache
+generated/
